@@ -1,0 +1,31 @@
+{
+  "packs": [
+    {
+      "id": "ready-gov-plan-kit",
+      "name": "Ready.gov: Plan & Kit",
+      "description": "How to make a family emergency plan and build a disaster supplies kit, from FEMA's Ready.gov campaign.",
+      "guideCount": 2,
+      "sizeKB": 9,
+      "version": 1,
+      "url": "ready-gov-plan-kit.json"
+    },
+    {
+      "id": "ready-gov-disasters",
+      "name": "Ready.gov: Disasters",
+      "description": "What to do before, during and after the most common disasters, from FEMA's Ready.gov campaign.",
+      "guideCount": 6,
+      "sizeKB": 29,
+      "version": 1,
+      "url": "ready-gov-disasters.json"
+    },
+    {
+      "id": "army-survival",
+      "name": "Army Survival Manual",
+      "description": "Field-tested survival skills from the U.S. Army survival manual FM 3-05.70: water, fire, shelter, food, signaling and navigation.",
+      "guideCount": 8,
+      "sizeKB": 47,
+      "version": 1,
+      "url": "army-survival.json"
+    }
+  ]
+}
