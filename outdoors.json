@@ -1,0 +1,148 @@
+{
+  "id": "outdoors",
+  "name": "Outdoors: Hiking, Camping, Cycling",
+  "description": "Original Standby guides for the hills and the road: not getting lost, staying warm and dry, and getting home.",
+  "version": 1,
+  "license": {
+    "kind": "Original content (Version Zero Limited)",
+    "attribution": "Written for Standby by Version Zero Limited.",
+    "url": "https://github.com/VersionZeroLimited/standby-packs"
+  },
+  "guides": [
+    {
+      "id": "out-hike-lost",
+      "title": "Lost on a hill",
+      "category": "Outdoors",
+      "severity": "important",
+      "summary": "Stop the moment you are unsure, backtrack to your last known point, and know when to stay put and signal.",
+      "tags": [
+        "hiking",
+        "navigation",
+        "lost",
+        "whistle",
+        "safety"
+      ],
+      "body": "# Stop, think, then move\n\nEveryone gets lost sometimes, including experienced walkers. What turns a wrong turn into a good story is what you do in the first five minutes. The rule is simple: the moment you are not sure where you are, you stop walking.\n\n1. Stop as soon as doubt appears. Sit down, drink some water, eat something. Panic burns energy and makes map reading worse, so lower your heart rate before you do anything clever.\n2. Find your last known point: the last place you were certain of, such as a summit, a bridge, a stream crossing or a signed path junction. Estimate how long ago you were there and how far you have come since.\n3. Try to fix your position. Read the shape of the land: which way the slopes fall, where streams run, what lies uphill and downhill. Match it against the map. Your phone's location can help, but treat its battery as precious and its signal as unreliable.\n4. If you can relocate, navigate to a catching feature — a wall, a river, a forest edge, a wide track — something too big to miss, and follow it to a place you know.\n5. If you cannot relocate, backtrack. Turn around and retrace your steps to your last known point. Retracing works because you have already walked that ground. Pressing on and hoping things become clear rarely works.\n\n> ⚠️ **Do not descend blindly to escape cloud or discomfort.** Crags, cliffs and steep ground below the cloud line are the classic way a navigation error becomes a fall. Downhill is not automatically safer.\n\n## When to stay put\n\nStay where you are if the weather closes in, if darkness is within a couple of hours, if someone is injured, or if backtracking means crossing ground you did not like the first time. Find shelter from the wind, put on every warm layer you carry, get into your emergency bivvy bag, and wait. Rescuers find people who stay still far more easily than people who keep moving.\n\n## Signal for help\n\nSix blasts on a whistle, pause for a minute, then six more. Keep repeating. Anyone who hears you answers with three blasts. Torch flashes work the same way after dark. Shouting ruins your voice — save it.\n\n## Variations\n\n- In a group, stay together. Slow everyone to the pace of the slowest person and make decisions out loud, together.\n- If someone must go for help, write down the time, the exact location and the injuries before they leave, and mark the spot on the map. Never leave an injured person alone if you can avoid it.\n- Alone in bad visibility, staying put and signalling usually beats walking in circles.\n- Before you set out you told someone your route and expected finish time. That person is now your lifeline: they raise the alarm when you are late. If you skipped it this time, fix the habit — every walk, every time."
+    },
+    {
+      "id": "out-hike-kit",
+      "title": "Day-walk kit",
+      "category": "Outdoors",
+      "severity": "reference",
+      "summary": "The minimum kit for any hill walk whatever the forecast — and why jeans and cotton are dangerous.",
+      "tags": [
+        "hiking",
+        "kit",
+        "checklist",
+        "clothing",
+        "safety"
+      ],
+      "body": "# Carry it whatever the forecast\n\nThe kit that saves your life is the kit you carry on the warm, sunny days too, because the day things go wrong is rarely the day you checked. This is a minimum list for any hill walk, summer or winter, whatever the sky looks like at the car park.\n\n1. **Map and compass** — a paper map of the area and a baseplate compass, plus the skill to use them. A phone map is a bonus, not a replacement: batteries die, cold drains charge fast, and screens are hard to read in rain.\n2. **Waterproof jacket and trousers** — proper waterproofs, not a showerproof shell. You need something that holds off hours of rain and cuts the wind.\n3. **Spare warm layer** — a fleece or insulated jacket that stays in your pack until you stop. Walking keeps you warm; stopping is when you get cold.\n4. **Head torch** — with fresh batteries, plus spares. Even a summer walk can finish in the dark if something delays you.\n5. **Food and water** — more than the plan needs, including spare that keeps, such as nuts, chocolate or cereal bars.\n6. **Whistle** — the cheapest signalling device there is, and it works long after your voice cannot.\n7. **Phone and power bank** — fully charged, kept warm and dry, with emergency numbers saved and offline maps downloaded.\n8. **First aid kit** — plasters, bandages, blister patches, gloves and painkillers, plus anything personal such as inhalers or an epinephrine auto-injector.\n9. **Emergency bivvy bag** — the small foil or plastic type that weighs nothing and turns a cold night into an uncomfortable one instead of a fatal one.\n\n> ⚠️ **Never walk the hills in jeans or cotton.** Denim and cotton hold water, lose all insulation when wet and dry very slowly, so wet cotton actively pulls heat out of you. People die of hypothermia in summer rain wearing cotton. Wear wool or synthetic layers next to skin.\n\n## Variations\n\n- In winter add a hat and gloves you cannot lose, goggles, an extra layer, a hot flask and, when conditions demand it, crampons and an ice axe you have been trained to use.\n- Groups can share some first aid items, but map, compass, whistle, bivvy bag and spare layer should be carried by every person, in case the group separates.\n- Pack so the things you need in the rain — waterproofs, warm layer, map — are reachable without unpacking everything.\n- Add the kit that weighs nothing: before you leave, tell someone your route and expected finish time, every single time. Equipment keeps you alive; a route plan with a friend gets people looking for you in the right valley."
+    },
+    {
+      "id": "out-hike-weather",
+      "title": "Reading the weather before a walk",
+      "category": "Outdoors",
+      "severity": "reference",
+      "summary": "Check the wind at height, the freezing level and the fronts before you leave, and treat turning back as a decision.",
+      "tags": [
+        "hiking",
+        "weather",
+        "forecast",
+        "planning",
+        "wind"
+      ],
+      "body": "# Decide at the kitchen table\n\nThe best weather decisions are made before you leave home, not on the summit in horizontal rain. Check a mountain-specific forecast the night before and again in the morning. A valley forecast tells you about the valley; hills make their own weather.\n\n1. **Check the wind at summit height.** Wind is the biggest hazard on open hills. A breeze in the valley can be gale force on the ridge, so look at the forecast for the top, not the town, and read the gusts, not just the average. Above roughly 40 to 50 km/h on an exposed ridge, expect gusts strong enough to unbalance you.\n2. **Find the freezing level.** Air cools by about one degree per hundred metres of ascent, and wind chill takes more on top. If the freezing level sits near your route, expect ice on rock and paths even in sunshine.\n3. **Watch for fronts.** Falling pressure and thickening high cloud mean a front is on the way: hours of rain, dropping temperature and poor visibility. Time your walk so you are off the high ground when it arrives, not on it.\n4. **Plan for the summit, walk in the valley.** Calm and clear below can mean cloud, wind and freezing conditions above. Ask what the worst hour of this walk will feel like, and pack for that hour.\n5. **Set a turnaround time** based on daylight and the forecast, and agree it with everyone before you start.\n\n## Turning back is a decision\n\nTurning back is a decision, not a failure. The summit is optional; the way home is not. If the wind is stronger than forecast, the cloud lower, or the group slower, that is information, not weakness. Walks end early all the time; that is what experienced walkers look like.\n\n> ⚠️ **Summit fever is the killer.** Most hill accidents happen on the last stretch up or the first down, after people push on because of the effort already spent. The effort spent is gone either way. The hill will be there another day.\n\n## Variations\n\n- Learn the field signs of worsening weather: clouds lowering onto the tops, wind backing and strengthening, a halo round the sun or moon, a sudden warm wind on a cold day.\n- Thunderstorms: descend from ridges and summits early, and avoid lone trees, gateways and metal fences while it passes.\n- When you tell someone your route and expected finish time, mention your weather cut-off as well. Coming home early is the plan working, not the plan failing."
+    },
+    {
+      "id": "out-camp-site",
+      "title": "Choosing a wild camp spot",
+      "category": "Outdoors",
+      "severity": "reference",
+      "summary": "Shelter from wind, avoid ridges and valley floors, pitch above the flood line, know the local law, leave no trace.",
+      "tags": [
+        "camping",
+        "wild-camp",
+        "site",
+        "leave-no-trace",
+        "law"
+      ],
+      "body": "# Pick the pitch with tomorrow in mind\n\nA wild camp spot has to answer two questions: where will the wind come from tonight, and where will the water go if it rains hard? Everything else is comfort, and comfort does not matter at three in the morning.\n\n1. **Shelter from the wind.** Pitch behind a rise, a wall or a stand of trees, with the tent door facing away from the wind. Avoid cols and saddles — the low points on a ridge funnel wind like a chimney.\n2. **Avoid summits and ridges.** They are exposed to wind, lightning and cold, and at night they give you nothing but a view you cannot see.\n3. **Avoid valley floors.** Cold air drains downhill after sunset, so the valley bottom is the coldest and dampest place to sleep, and the first to flood when rain is heavy.\n4. **Respect the flood line.** Camp a few minutes' walk from your water, but above the line of flattened grass, silt and debris that shows where the stream has already been. A dry streambed is not a pitch; it is a route for flash floods from rain you cannot see.\n5. **Look up and around.** No dead branches overhead, no loose rock on the slope above, no hollow ground that will pool under the tent floor.\n6. **Leave no trace.** Pitch on grass or rock, not fragile plants. Do not cut trenches. Carry out everything you carried in, including food scraps. Cook on a stove; if fires are permitted at all, keep them small, on bare ground, and fully out.\n7. **Arrive late, leave early** and take the site away with you: the goal is a spot that looks untouched when you go.\n\n## Know the law where you are\n\nRules differ by country. In Scotland, access rights allow wild camping responsibly almost everywhere. In England and Wales you generally need the landowner's permission. Across Europe it ranges from freely allowed to strictly forbidden, and local rules can add seasonal bans for fire risk or wildlife. Check before you travel, and obey signage when you arrive.\n\n> ⚠️ **The flattest, greenest pitch beside a stream is usually a floodplain.** Flash floods from storms further uphill kill campers every year. Pitch above the debris line, however tempting the flat ground beside the water looks.\n\n## Variations\n\n- In cold weather a slightly raised, sheltered shelf beats the valley floor for warmth; in hot weather, shade and a moving breeze matter more.\n- In bear country — parts of the Alps, the Carpathians, Scandinavia — plan food storage from the outset: hung well away from the tent or in a canister.\n- Tell someone your planned camp area, your route in and out, and when you expect to be back in contact. A spot nobody knows about is a spot nobody can send help to."
+    },
+    {
+      "id": "out-camp-water",
+      "title": "Water in the backcountry",
+      "category": "Outdoors",
+      "severity": "important",
+      "summary": "Choose the best source available, treat every drop, keep washing away from drinking water, and carry enough between fills.",
+      "tags": [
+        "camping",
+        "water",
+        "purification",
+        "hydration",
+        "health"
+      ],
+      "body": "# Treat every drop\n\nIn most hill country you can find water, but every source carries some risk. The rule never changes: all water you drink in the backcountry gets treated first. Clear, cold and fast does not mean safe — the organisms that matter are invisible.\n\n## Pick the best source available\n\n1. **A spring** emerging from the ground is usually the cleanest source, because soil and rock have already filtered it.\n2. **A fast stream** tumbling over stones is next: cold, aerated and moving, which most contamination does not survive long in.\n3. **A slow stream** is third choice, and only upstream of grazing animals, camps, bridges and fords.\n4. **Still water** — lakes, ponds and tarns — is the last resort: warm, stagnant and full of life. Take it if you must, and treat it thoroughly.\n\nWherever you collect, take water on the upstream side of the camp, not downstream of anything at all.\n\n## Treat it, every time\n\nPick one method and always carry it. A filter is fast and tasteless. A rolling boil for one minute is certain, but costs fuel. Chlorine or chlorine dioxide tablets are light and cheap, but need up to half an hour — longer in cold water. All three work. Choose one, know it, pack it.\n\n## Washing discipline\n\nCollect drinking water upstream. Wash yourself, your dishes and your clothes downstream of the collection point and well away from any stream — thirty metres or more. Never use soap in a stream or lake, even the biodegradable kind: soap belongs on soil, if anywhere.\n\n## How much to carry\n\nRoughly two to three litres per person per day covers drinking and cooking in cool weather, and more in heat or on long climbs. Between reliable fills, carry enough to reach the next source with a margin. In dry summer country, plan water sources as carefully as you plan the route, and treat a dried-up source as a reason to turn back, not to push on thirsty.\n\n> ⚠️ **Never drink untreated backcountry water, however clear it looks.** A single bad mouthful can mean days of illness days from anywhere — and dehydration is how a stomach bug in the hills becomes an emergency.\n\n## Variations\n\n- In winter, snow is the main source: melt it fully rather than eating it, which chills you fast, and take it from clean, deep snow well away from camp.\n- Top up bottles whenever you pass good water on a dry stretch, even if you are not thirsty yet.\n- When you leave your route and expected return with someone at home, mention your water plan and turnaround point too, so your decisions make sense to them."
+    },
+    {
+      "id": "out-camp-night",
+      "title": "Overnight safety",
+      "category": "Outdoors",
+      "severity": "reference",
+      "summary": "Torch habits, food out of the tent, camp shoes, and what to do when a storm breaks over the camp.",
+      "tags": [
+        "camping",
+        "night",
+        "storm",
+        "lightning",
+        "routine"
+      ],
+      "body": "# Night is when small mistakes matter\n\nMost overnight problems in the hills are not dramatic. They are cold, fumbling and poor judgement in the dark. A few simple habits prevent nearly all of them.\n\n## Torch discipline\n\nYour head torch lives in one place, always — a tent pocket or one specific pack pocket — so you can find it blind. Turn it on only when needed and off again: a torch left burning is dead by morning. Carry spare batteries or a second torch, keep them warm inside your sleeping bag because cold shrinks battery life, and check the torch works before you need it, not after.\n\n## Food stays out of the tent\n\nStore food, rubbish and anything scented — toothpaste, snacks, sun cream — outside the tent, hung in a stuff sack from a branch well away, or in a canister where they are required. Never eat inside the tent: crumbs invite mice that will chew through fabric to reach them, and in bear country a food-scented tent is the danger. Cook away from the tent and downwind of the door.\n\n## Camp shoes\n\nA light pair of shoes for camp saves your socks, keeps mud out of the tent and lets you stand up safely at night for whatever happens — a guy line loose in the wind, an animal in the food, a full bladder. Boots stay at the door, loosened, ready for a fast exit.\n\n## In a storm\n\nWhen a thunderstorm breaks over camp, do not shelter under the lone tree or at the edge of a stand — those are where lightning finds ground. Move off ridges and summits, away from overhangs and shallow caves, and away from the tent poles and guy lines. Caught in the open, crouch on your sleeping mat with your feet together, hands off the ground, and make yourself small. Sit on insulation, never bare ground: the ground itself carries the current of a nearby strike.\n\n> ⚠️ **Never shelter under a lone tree on open ground in a storm.** It is the most common place people are killed by lightning, and the place that feels like shelter.\n\n## Variations\n\n- Cold night routine: eat something before sleeping, drink something warm, and keep one dry base layer reserved only for sleeping in.\n- Pack a night-exit kit — torch, boots, jacket and phone together — so leaving the tent in a hurry takes seconds.\n- Tell someone your camp area and when you expect to be back in contact. Overnight is when plans change, and when a raised alarm matters most."
+    },
+    {
+      "id": "out-bike-breakdown",
+      "title": "Bike breakdown on the road",
+      "category": "Outdoors",
+      "severity": "reference",
+      "summary": "The small kit that fixes most stops, the order to work through roadside repairs, and when to push the bike instead.",
+      "tags": [
+        "cycling",
+        "repair",
+        "puncture",
+        "tools",
+        "roadside"
+      ],
+      "body": "# Carry the kit, work the order\n\nBreakdowns are a normal part of riding, not a disaster. What matters is carrying a small kit, getting off the road first, and working through problems in a calm order rather than guessing.\n\n## The seatpack kit\n\n- A multi-tool with hex keys, screwdrivers and a chain tool\n- Tyre levers\n- One spare tube of the correct size, plus a patch kit as backup\n- A mini pump\n- A chain quick link that matches your chain\n\n## The roadside order\n\n1. **The tyre first** — it causes most stops. Before anything else, find the cause: run a finger carefully inside the tyre for glass or thorn, or the new tube dies the same way. Fit the spare tube, seat the tyre bead evenly, inflate part way, check nothing is pinched, then inflate fully and spin the wheel to check it runs true.\n2. **Then the chain.** Press out the broken link with the chain tool, fit the quick link, and pedal gently to set it. Ride home spinning an easy gear and avoid the extreme combinations — big chainring with the biggest sprocket — which stress a shortened chain.\n3. **Then the gears.** Skipping or slow shifting is usually cable tension: click into a middle gear and turn the barrel adjuster at the shifter a quarter turn at a time until it settles. A rear derailleur bent into the spokes means stop pedalling at once: straighten what you safely can, or remove the derailleur and rig a single speed to ride out.\n\n## Walking out\n\nA bike you cannot fix is a bike you can push. Walking is slower but safe, and on steep or rough ground it is often as fast as riding badly. Lift the bike over fences and stiles rather than dragging it — bent wheels and hangers happen at stiles. A two-hour walk home beats a risky hour on a broken bike.\n\n## Phone battery discipline\n\nYour phone is your map, your light and your call for help. Keep it in flight mode with offline maps loaded, carry a power bank and cable, and treat the last third of the battery as reserved for emergencies. Do not spend it scrolling at the café stop.\n\n> ⚠️ **Never ride a bike whose brakes you do not trust, especially downhill.** If the repair will not hold, walk. A long walk home is far better than a fast descent on one brake.\n\n## Variations\n\n- Before you even set out, tell someone your route and expected return time; they are your backup when the fix does not work.\n- In a group, agree who carries the pump and tools, so nobody rides assuming someone else has it.\n- On tubeless tyres, carry a plug kit and a spare tube anyway; sealant does not seal every hole."
+    },
+    {
+      "id": "out-bike-ride",
+      "title": "Planning a safe ride",
+      "category": "Outdoors",
+      "severity": "reference",
+      "summary": "Plan escape points, leave your route and ETA with someone, check the wind, and carry food and water by the hour.",
+      "tags": [
+        "cycling",
+        "planning",
+        "route",
+        "weather",
+        "safety"
+      ],
+      "body": "# Plan at the table, enjoy the ride\n\nGood rides are decided before the pedals turn. Three questions do most of the work: where are we going, what if it goes wrong, and who knows about it.\n\n1. **Match the route to the day.** Choose distance and climbing for the weakest rider and the shortest daylight, not for the strongest rider on the best forecast. Then find the escape points — the villages, road junctions and stations where you can shorten the ride. A route with three ways out is a better route than a loop with none.\n2. **Tell someone.** Leave your route, start and finish points, and expected return time with a person who will actually notice if you are late. Agree the time at which they should call for help.\n3. **Check the weather with a cyclist's eye.** Wind matters most: a tailwind out is a headwind home, so plan the long leg into the wind early. Rain means longer stopping distances and greasy paint, metal and leaves; heat means planning by water taps and shade, not by distance.\n4. **Lights and visibility.** Fit lights and wear something bright even on a fine day, and if there is any chance of finishing in the dark, fit proper charged lights before you leave rather than hoping.\n5. **Food and water by the hour.** In warm weather, plan roughly one standard bottle per hour of riding, less in the cold. Eat before you are hungry: something small every thirty to forty-five minutes from the first hour. Running empty feels sudden — the legs simply stop, and judgement follows them.\n6. **Give the bike two minutes** before the door: tyres, brakes, chain, and anything rattling.\n\n> ⚠️ **The dangerous ride is the one with no way out** — no escape points, nobody told, water planned down to the last drop. Rides go wrong at the margins, so build margins in from the start.\n\n## Variations\n\n- Group rides: set regroup points along the route, so faster riders can wait without anyone turning back alone.\n- Solo rides: share your live location if your phone offers it, and check in at agreed points.\n- Unfamiliar areas: note which directions have towns, roads and signal, in case you need to redirect, walk or call."
+    },
+    {
+      "id": "out-bike-crash",
+      "title": "After a fall",
+      "category": "Outdoors",
+      "severity": "important",
+      "summary": "Check yourself before the bike, run the concussion check, inspect the bike properly, and know when to abandon the ride.",
+      "tags": [
+        "cycling",
+        "crash",
+        "first-aid",
+        "concussion",
+        "inspection"
+      ],
+      "body": "# Check the rider before the bike\n\nAfter a fall, adrenaline lies to you. It hides pain, sharpens the urge to jump up, and insists the ride can continue. Slow everything down. The bike can be replaced; you cannot.\n\n1. **Get safe first.** If you are in the road, on a blind corner or on the racing line, crawl or roll clear if you possibly can before anything else, and get other riders or traffic slowed and past you.\n2. **Lie still and take stock.** Before standing, breathe and scan: head, neck, back, then limbs. Anything grating, or any neck or back pain, means do not get up — stay still, keep warm and call for help.\n3. **Run the concussion check.** Ask yourself your name, today's date and where you are riding to. If any answer is slow, fuzzy or wrong, assume a concussion: the ride is over. Ask again later, because concussion can develop over hours. Nausea, headache, odd vision or confusion all mean stop and get checked.\n4. **Know the common breaks.** Collarbones and wrists take most falls — a hand or shoulder planted at speed. A grating, swollen collarbone or a wrist that will not bear load is a fracture until proven otherwise.\n5. **Only then check the bike.** Bars and stem straight and tight, saddle straight, wheels spinning true and centred in the frame and forks, both brakes pulling properly to rim or rotor, and the frame inspected for cracks — especially at the welds and around any deep gouges. Test the brakes gently before the first descent.\n\n> ⚠️ **Never ride on after a head impact to see how it feels.** A second knock before the first has healed can be catastrophic. If the head took a hit, the riding is done — call someone for a lift.\n\n## When to abandon and call for help\n\n- Abandon if you suspect any fracture, if concussion symptoms appear, if the bike fails its check, or if you simply feel shaky and wrong.\n- Call the emergency services — 112 works across most of Europe — and say where you are along the route. If injured and alone without signal, stay put, keep warm, make yourself visible and save phone battery for moments with signal.\n- This is why you told someone your route and expected return time before you set off. When you do not appear at the finish, they raise the alarm in the right place.\n\n## Variations\n\n- With others down, the rider who stayed upright secures the scene and checks the fallen rider. Never take \"I'm fine\" at face value in the first minutes.\n- Shock is real even without injury: sit down, keep warm, sip something sweet, and delay any go-or-stay decision for a few minutes."
+    }
+  ]
+}

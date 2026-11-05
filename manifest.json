@@ -5,7 +5,7 @@
       "name": "Ready.gov: Plan & Kit",
       "description": "How to make a family emergency plan and build a disaster supplies kit, from FEMA's Ready.gov campaign.",
       "guideCount": 2,
-      "sizeKB": 9,
+      "sizeKB": 6,
       "version": 1,
       "url": "ready-gov-plan-kit.json"
     },
@@ -26,6 +26,33 @@
       "sizeKB": 47,
       "version": 1,
       "url": "army-survival.json"
+    },
+    {
+      "id": "govuk-preparedness",
+      "name": "GOV.UK: Emergency Preparedness",
+      "description": "UK government guidance on preparing for and dealing with floods, storms, power cuts and extreme weather.",
+      "guideCount": 6,
+      "sizeKB": 38,
+      "version": 1,
+      "url": "govuk-preparedness.json"
+    },
+    {
+      "id": "cdc-disaster-health",
+      "name": "CDC: After the Disaster",
+      "description": "Staying healthy in the aftermath: safe cleanup, mold, food and water safety, wells, and pests — from the CDC.",
+      "guideCount": 6,
+      "sizeKB": 44,
+      "version": 1,
+      "url": "cdc-disaster-health.json"
+    },
+    {
+      "id": "outdoors",
+      "name": "Outdoors: Hiking, Camping, Cycling",
+      "description": "Original Standby guides for the hills and the road: not getting lost, staying warm and dry, and getting home.",
+      "guideCount": 9,
+      "sizeKB": 27,
+      "version": 1,
+      "url": "outdoors.json"
     }
   ]
 }
